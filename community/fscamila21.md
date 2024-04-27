@@ -5,7 +5,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, migrando de carreira da ar�
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilafsantana//)
 
-## Hard Skills
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fscamila21&theme=midnight-purple&show_icons=true)
+
+## 🚀 Hard Skills
 ![Static Badge](https://img.shields.io/badge/-Python?style=flat&logo=python&logoColor=%23FFFFFF&logoSize=auto&label=Python&labelColor=%23333333&color=%23333333)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
