@@ -1,7 +1,7 @@
 #  Camila Sant Ana
 
 ## 👩‍💻 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas, migrando de carreira da aréa da saúde para a tech (e por que não unir as duas futuramente?!). Atualmente me desenvolvendo também através de cursos complementar e participando do Bootcamp Santander 2024 em Backend com Java, stack que prentendo seguir.
+Estudante de Análise e Desenvolvimento de Sistemas, migrando de carreira da aréa da saúde para a tech (e por que não unir as duas futuramente?!). Atualmente me desenvolvendo também através de cursos complementares e participando do Bootcamp Santander 2024 em Backend com Java, stack que prentendo seguir.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilafsantana//)
 
